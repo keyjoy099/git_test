@@ -1,3 +1,4 @@
 git_test for rebase
 master_change_1
 master_change_2
+master_change_3
